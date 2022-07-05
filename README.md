@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Unyime Usen (@Unyime94) residing in Lagos, Nigeria
-- 👀 I’m interested in UI/UX and Frontend Development
-- 🌱 I’m currently learning both.
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning to code and building personal projects.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me on unyimeusen01@gmail.com
 
