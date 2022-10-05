@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Unyime Usen (@Unyime94) residing in Lagos, Nigeria.
+- 👋 Hi, I’m Unyime Kona (@Unyime94) residing in Lagos, Nigeria.
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m skilled in JavaScript, React, Next.js, CSS and Bootstrap
 - 💞️ I’m looking out for opportunities to collaborate.
