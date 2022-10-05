@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Unyime Kona (@Unyime94) residing in Lagos, Nigeria.
-- 👀 I’m interested in Frontend Development.
+- 👀 I’m a Front-End Engineer.
 - 🌱 I’m skilled in JavaScript, React, Next.js, CSS and Bootstrap
 - 💞️ I’m looking out for opportunities to collaborate.
 - 📫 How to reach me on unyimeusen01@gmail.com.
